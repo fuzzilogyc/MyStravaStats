@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Strava Stats</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+</resources>
