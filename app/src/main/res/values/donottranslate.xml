@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="oauth_url">https://www.strava.com/oauth/authorize?client_id=30428&amp;redirect_uri=https://org.fuzz.mystravastats&amp;response_type=code&amp;state=none</string>
+</resources>

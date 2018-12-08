@@ -30,7 +30,7 @@
             android:layout_marginTop="8dp"
             android:layout_gravity="center"
             android:text="Authorise now"
-            android:onClick="buttonClicked"
+            android:onClick="loginButtonClicked"
             app:layout_constraintTop_toBottomOf="@id/textView" />
     </LinearLayout>
 
